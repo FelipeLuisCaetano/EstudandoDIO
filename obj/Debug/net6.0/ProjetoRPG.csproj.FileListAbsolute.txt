@@ -1,0 +1,15 @@
+D:\FELIPE\DIO\ProjetoRPG\bin\Debug\net6.0\ProjetoRPG.exe
+D:\FELIPE\DIO\ProjetoRPG\bin\Debug\net6.0\ProjetoRPG.deps.json
+D:\FELIPE\DIO\ProjetoRPG\bin\Debug\net6.0\ProjetoRPG.runtimeconfig.json
+D:\FELIPE\DIO\ProjetoRPG\bin\Debug\net6.0\ProjetoRPG.dll
+D:\FELIPE\DIO\ProjetoRPG\bin\Debug\net6.0\ref\ProjetoRPG.dll
+D:\FELIPE\DIO\ProjetoRPG\bin\Debug\net6.0\ProjetoRPG.pdb
+D:\FELIPE\DIO\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.csproj.AssemblyReference.cache
+D:\FELIPE\DIO\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\FELIPE\DIO\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.AssemblyInfoInputs.cache
+D:\FELIPE\DIO\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.AssemblyInfo.cs
+D:\FELIPE\DIO\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.csproj.CoreCompileInputs.cache
+D:\FELIPE\DIO\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.dll
+D:\FELIPE\DIO\ProjetoRPG\obj\Debug\net6.0\ref\ProjetoRPG.dll
+D:\FELIPE\DIO\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.pdb
+D:\FELIPE\DIO\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.genruntimeconfig.cache
